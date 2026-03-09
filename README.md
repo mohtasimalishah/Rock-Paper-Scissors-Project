@@ -50,7 +50,7 @@ git clone https://github.com/yourusername/rock-paper-scissors.git
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@mohtasimalishah](https://github.com/mohtasimalishah)
 
 ## 📝 Acknowledgments
 
