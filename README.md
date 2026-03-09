@@ -21,13 +21,13 @@ A classic Rock Paper Scissors game played in the browser console. Built with van
 
 ## 🛠️ Built With
 
-- HTML5
+- HTML5S
 - CSS3
 - JavaScript (ES6)
 
 ## 🚀 Live Demo
 
-[Play the game](https://yourusername.github.io/rock-paper-scissors)
+[Play the game](https://mohtasimalishah.github.io/Rock-Paper-Scissors-Project/)
 
 ## 💻 Installation
 ```bash
